@@ -2,6 +2,7 @@ html {
     margin: 0;
     width: 100%;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    scroll-behavior: smooth;
 }
 
 body {
@@ -58,4 +59,27 @@ body {
     font-weight: 300;
     margin: 0px;
     font-size: 2.2rem;
+}
+
+/* Main */
+main {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+#about {
+    padding: 45px;
+    color: black;
+}
+
+#about h2 {
+    margin: 0;
+    font-size: 2.5rem;
+    font-weight: 300;
+}
+
+#about p {
+    font-size: 1.5rem;
+    font-weight: 300;
 }
