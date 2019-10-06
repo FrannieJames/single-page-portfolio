@@ -180,7 +180,7 @@ main {
         justify-content: center;
         padding-top: 15px;
         font-size: 1rem;
-        margin-left: -4%;
+        margin-left: -8%;
     }
     
     .portfolio-menu ul li{
@@ -232,12 +232,12 @@ main {
     }
     
     #about {
-        padding: 20px;
+        padding-top: 20px;
         color: black;
     }
     
     #about h2 {
-        margin-top: 100px;
+        margin-top: 70px;
         font-size: 1.7rem;
         font-weight: 300;
     }
@@ -245,11 +245,13 @@ main {
     #about p {
         font-size: 1rem;
         font-weight: 300;
+        padding: 0%;
     }
     
     #about a {
         color: black;
         text-decoration: none;
+        
     }
     
     #skills {
