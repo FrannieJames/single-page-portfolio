@@ -1,0 +1,22 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "None",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrannieJames/single-page-portfolio.git"
+  },
+  "author": "Frannie James Ballenas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrannieJames/single-page-portfolio/issues"
+  },
+  "homepage": "https://github.com/FrannieJames/single-page-portfolio#readme",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
