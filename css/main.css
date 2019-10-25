@@ -165,6 +165,45 @@ main {
     background: darkslategray;
 }
 
+.footer p{
+    text-align: center;
+    margin: 0%;
+    padding: 0%;
+}
+
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+  }
+  
 /*For mobile phones*/
 @media only screen and (max-width: 600px){
     .portfolio-hero {
@@ -180,7 +219,7 @@ main {
         justify-content: center;
         padding-top: 15px;
         font-size: 1rem;
-        margin-left: -4%;
+        margin-left: -8%;
     }
     
     .portfolio-menu ul li{
@@ -232,12 +271,12 @@ main {
     }
     
     #about {
-        padding: 20px;
+        padding-top: 20px;
         color: black;
     }
     
     #about h2 {
-        margin-top: 100px;
+        margin-top: 70px;
         font-size: 1.7rem;
         font-weight: 300;
     }
@@ -245,11 +284,13 @@ main {
     #about p {
         font-size: 1rem;
         font-weight: 300;
+        padding: 0%;
     }
     
     #about a {
         color: black;
         text-decoration: none;
+        
     }
     
     #skills {
